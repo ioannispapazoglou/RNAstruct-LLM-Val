@@ -1,0 +1,3 @@
+trRosetta protein structure dataset (15051 proteins) used for our calculations is available for download at:
+
+https://yanglab.qd.sdu.edu.cn/trRosetta/benchmark/
